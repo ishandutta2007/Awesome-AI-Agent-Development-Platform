@@ -28,7 +28,7 @@ Welcome to the definitive directory of **AI agent development platforms**, **ope
 
 **Key Market Insights & Trends (2026):** 💡
 - 🕸️ **LangGraph** leads production enterprise agent deployments due to its **state-graph architecture**, time-travel debugging, persistent checkpointing, and human-in-the-loop control.
-- 🎨 **Dify** remains the **#1 visual agent builder and LLMOps platform** with **157K+ GitHub stars**, offering RAG pipelines, prompt IDE, and multi-model routing.
+- 🎨 **Dify** remains the **#1 visual agent builder and LLMOps platform** with **157K+ GitHub_Stars**, offering RAG pipelines, prompt IDE, and multi-model routing.
 - 👥 **CrewAI** offers rapid prototyping with role-based agent DSLs (~20 lines of code to deploy working multi-agent crews).
 - 🏛️ **AutoGen** pioneered multi-agent conversation models, with Microsoft strategically evolving toward **Microsoft Agent Framework**.
 - 🛠️ **Emerging Frameworks** like **LlamaIndex Workflows**, **SuperAGI**, **Semantic Kernel**, and **CAMEL-AI** are expanding autonomous tools, memory backends, and multi-agent communication protocols.
@@ -67,58 +67,58 @@ The global AI agent development platform market is valued at **~$10.75 Billion -
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-*Sorted strictly by GitHub Star Count (Descending)* 🌟
+*Sorted strictly by GitHub Stars_Count (Descending)* 🌟
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
-  **Autonomous AI agent platform and builder**, MIT licensed. **172K+ GitHub stars** — **the iconic open-source autonomous agent benchmark**. **AutoGPT Forge framework**, **visual agent builder**, and **modular tool ecosystem** for autonomous task execution. 🤖
+  **Autonomous AI agent platform and builder**, MIT licensed. **172K+ GitHub_Stars** — **the iconic open-source autonomous agent benchmark**. **AutoGPT Forge framework**, **visual agent builder**, and **modular tool ecosystem** for autonomous task execution. 🤖
 
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
-  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **157K+ GitHub stars** — **the leading open-source visual agent builder**. **Visual drag-and-drop workflow editor**, **built-in RAG pipelines**, **100+ LLM integrations**, and **Backend-as-a-Service architecture**. 🎨
+  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **157K+ GitHub_Stars** — **the leading open-source visual agent builder**. **Visual drag-and-drop workflow editor**, **built-in RAG pipelines**, **100+ LLM integrations**, and **Backend-as-a-Service architecture**. 🎨
 
 - **[LangChain](https://github.com/langchain-ai/langchain)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
-  **Building applications with LLMs through composability**, MIT licensed. **108K+ GitHub stars** — **the foundational framework for context-aware agentic applications**, **vector store integrations**, and **tool abstraction layers**. 🔗
+  **Building applications with LLMs through composability**, MIT licensed. **108K+ GitHub_Stars** — **the foundational framework for context-aware agentic applications**, **vector store integrations**, and **tool abstraction layers**. 🔗
 
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
-  **Multi-agent framework with role-based collaboration**, MIT licensed. **70K+ GitHub stars** — **agents role-play a complete software engineering company** (Product Managers, Architects, Developers, Testers) with Standardized Operating Procedures (SOPs). 🏢
+  **Multi-agent framework with role-based collaboration**, MIT licensed. **70K+ GitHub_Stars** — **agents role-play a complete software engineering company** (Product Managers, Architects, Developers, Testers) with Standardized Operating Procedures (SOPs). 🏢
 
 - **[AutoGen](https://github.com/microsoft/autogen)** [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
-  **Conversational multi-agent systems framework**, CC-BY-4.0 licensed. **61K+ GitHub stars** — **Microsoft's multi-agent conversation engine**. Features **AutoGen Studio no-code GUI**, flexible multi-agent interaction patterns, and human-in-the-loop controls. 🏛️
+  **Conversational multi-agent systems framework**, CC-BY-4.0 licensed. **61K+ GitHub_Stars** — **Microsoft's multi-agent conversation engine**. Features **AutoGen Studio no-code GUI**, flexible multi-agent interaction patterns, and human-in-the-loop controls. 🏛️
 
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
-  **Framework for orchestrating role-playing autonomous AI agents**, MIT licensed. **59K+ GitHub stars** — **the fastest Python framework to prototype multi-agent crews**. Role-based DSL (role, goal, backstory, tools) with task delegation and sequential/hierarchical execution flows. 👥
+  **Framework for orchestrating role-playing autonomous AI agents**, MIT licensed. **59K+ GitHub_Stars** — **the fastest Python framework to prototype multi-agent crews**. Role-based DSL (role, goal, backstory, tools) with task delegation and sequential/hierarchical execution flows. 👥
 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
-  **Stateful production agent orchestration via graph architectures**, MIT licensed. **22K+ GitHub stars** — **the premier enterprise production framework**. Features state graph models, cycles, branching, persistent memory checkpoints, time-travel debugging, and granular human-in-the-loop state modification. 🕸️
+  **Stateful production agent orchestration via graph architectures**, MIT licensed. **22K+ GitHub_Stars** — **the premier enterprise production framework**. Features state graph models, cycles, branching, persistent memory checkpoints, time-travel debugging, and granular human-in-the-loop state modification. 🕸️
 
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)  
-  **Integrate cutting-edge LLM technology into C#, Python, and Java apps**, MIT licensed. **22K+ GitHub stars** — **Microsoft's enterprise SDK** for building agentic plugins, memory connectors, planners, and agent personas in production software. ⚡
+  **Integrate cutting-edge LLM technology into C#, Python, and Java apps**, MIT licensed. **22K+ GitHub_Stars** — **Microsoft's enterprise SDK** for building agentic plugins, memory connectors, planners, and agent personas in production software. ⚡
 
 - **[CAMEL](https://github.com/camel-ai/camel)** [![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
-  **Communicative agents for mind exploration in agent society**, Apache-2.0 licensed. **17K+ GitHub stars** — **pioneer multi-agent framework** focused on role-playing agent societies, communicative agent simulation, and task-oriented collaboration. 🐪
+  **Communicative agents for mind exploration in agent society**, Apache-2.0 licensed. **17K+ GitHub_Stars** — **pioneer multi-agent framework** focused on role-playing agent societies, communicative agent simulation, and task-oriented collaboration. 🐪
 
 - **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** [![Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
-  **Dev-first open-source autonomous AI agent framework**, Apache-2.0 licensed. **16K+ GitHub stars** — **infrastructure to build, manage, and run autonomous agents**. Includes agent GUI, action console, multiple vector DB support, and reusable tool marketplace. 🦾
+  **Dev-first open-source autonomous AI agent framework**, Apache-2.0 licensed. **16K+ GitHub_Stars** — **infrastructure to build, manage, and run autonomous agents**. Includes agent GUI, action console, multiple vector DB support, and reusable tool marketplace. 🦾
 
 - **[LlamaIndex Workflows](https://github.com/run-llama/llama_index)** [![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
-  **Event-driven agentic workflows and data frameworks**, MIT licensed. **37K+ GitHub stars** — **event-driven orchestration for RAG agents and data-intensive workflows**, featuring step-based state management and async event loops. 🦙
+  **Event-driven agentic workflows and data frameworks**, MIT licensed. **37K+ GitHub_Stars** — **event-driven orchestration for RAG agents and data-intensive workflows**, featuring step-based state management and async event loops. 🦙
 
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** [![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social&color=white)](https://github.com/MervinPraison/PraisonAI/stargazers)  
-  **Multi-agent workflows with self-reflection & Low-Code YAML setup**, MIT licensed. **9K+ GitHub stars**. Simplifies multi-agent creation with single-command YAML configurations, self-reflection capabilities, and 100+ LLM integrations. 🔄
+  **Multi-agent workflows with self-reflection & Low-Code YAML setup**, MIT licensed. **9K+ GitHub_Stars**. Simplifies multi-agent creation with single-command YAML configurations, self-reflection capabilities, and 100+ LLM integrations. 🔄
 
 - **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [![Stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white)](https://github.com/xlang-ai/OpenAgents/stargazers)  
-  **Open platform for language agents in the wild**, Apache-2.0 licensed. **4K+ GitHub stars**. Supports data analysis agents, web browsing agents, and tool agents over WebSocket, gRPC, and A2A protocols. 🌐
+  **Open platform for language agents in the wild**, Apache-2.0 licensed. **4K+ GitHub_Stars**. Supports data analysis agents, web browsing agents, and tool agents over WebSocket, gRPC, and A2A protocols. 🌐
 
 - **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** [![Stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social&color=white)](https://github.com/AtomicBot-ai/atomic-agent/stargazers)  
-  **Local-first CLI agent for open-weight models**, MIT licensed. **2.7K+ GitHub stars**. Lightweight modular agent runner for Ollama, LM Studio, and local LLM backends. 🖥️
+  **Local-first CLI agent for open-weight models**, MIT licensed. **2.7K+ GitHub_Stars**. Lightweight modular agent runner for Ollama, LM Studio, and local LLM backends. 🖥️
 
 - **[CAMEL-AI OWL](https://github.com/camel-ai/owl)** [![Stars](https://img.shields.io/github/stars/camel-ai/owl?style=social&color=white)](https://github.com/camel-ai/owl/stargazers)  
-  **Optimized workforce learning for general multi-agent assistance**, Apache-2.0 licensed. **1.5K+ GitHub stars**. Multi-agent workforce framework for real-world automated problem solving. 🦉
+  **Optimized workforce learning for general multi-agent assistance**, Apache-2.0 licensed. **1.5K+ GitHub_Stars**. Multi-agent workforce framework for real-world automated problem solving. 🦉
 
 - **[Flock](https://github.com/whiteducksoftware/flock)** [![Stars](https://img.shields.io/github/stars/whiteducksoftware/flock?style=social&color=white)](https://github.com/whiteducksoftware/flock/stargazers)  
-  **Declarative agent orchestration via blackboard architecture**, MIT licensed. **122 GitHub stars**. Focuses on declarative agent definitions and shared blackboard state communication. 🐑
+  **Declarative agent orchestration via blackboard architecture**, MIT licensed. **122 GitHub_Stars**. Focuses on declarative agent definitions and shared blackboard state communication. 🐑
 
 - **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** [![Stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social&color=white)](https://github.com/MarlBurroW/hivekeep/stargazers)  
-  **Self-hosted team of persistent personal agents**, MIT licensed. **68 GitHub stars**. Lightweight persistent multi-agent desktop setup. 🐝
+  **Self-hosted team of persistent personal agents**, MIT licensed. **68 GitHub_Stars**. Lightweight persistent multi-agent desktop setup. 🐝
 
 ---
 
@@ -128,7 +128,7 @@ Contributions are welcome! Follow these steps to submit new AI agent development
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
@@ -153,7 +153,7 @@ If you find this AI agent development platform repository useful, please conside
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
 - **LangGraph has gained massive enterprise adoption** for production agent graph state control, while **CrewAI is favored for rapid multi-agent prototyping**.
-- **Dify is the leading open-source visual agent builder** with 157K+ GitHub stars.
+- **Dify is the leading open-source visual agent builder** with 157K+ GitHub_Stars.
 - **Open-source agent frameworks require ongoing infrastructure maintenance**, LLM API key management, and evaluation benchmarks. Always test security, memory leakage, and multi-agent loops before production deployment. 🤖
 
 ---
