@@ -67,7 +67,7 @@ The global AI agent development platform market is valued at **~$10.75 Billion -
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-*Sorted strictly by GitHub Stars_Count (Descending)* 🌟
+*Sorted strictly by GitHub_Stars_Count (Descending)* 🌟
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
   **Autonomous AI agent platform and builder**, MIT licensed. **172K+ GitHub_Stars** — **the iconic open-source autonomous agent benchmark**. **AutoGPT Forge framework**, **visual agent builder**, and **modular tool ecosystem** for autonomous task execution. 🤖
